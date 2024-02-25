@@ -68,6 +68,7 @@
                     android:id="@+id/banner"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
+                    android:layout_marginHorizontal="30dp"
                     app:layout_constraintDimensionRatio="5:4"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
@@ -82,7 +83,8 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/text_rounded_bg"
                 android:padding="6dp"
-                android:layout_marginTop="6dp"
+                android:layout_marginHorizontal="8dp"
+                android:layout_marginVertical="4dp"
                 android:textSize="20sp"
                 tools:text="@string/open_time"/>
 
@@ -93,7 +95,8 @@
                 android:background="@drawable/text_rounded_bg"
                 android:padding="6dp"
                 android:textSize="20sp"
-                android:layout_marginTop="6dp"
+                android:layout_marginHorizontal="8dp"
+                android:layout_marginVertical="4dp"
                 android:textColor="@color/blue_primary"
                 tools:text="@string/address"/>
 
@@ -104,7 +107,8 @@
                 android:background="@drawable/text_rounded_bg"
                 android:padding="6dp"
                 android:textSize="20sp"
-                android:layout_marginTop="6dp"
+                android:layout_marginHorizontal="8dp"
+                android:layout_marginVertical="4dp"
                 android:textColor="@color/blue_primary"
                 tools:text="@string/tel"/>
 
@@ -115,7 +119,8 @@
                 android:background="@drawable/text_rounded_bg"
                 android:padding="6dp"
                 android:textSize="20sp"
-                android:layout_marginTop="6dp"
+                android:layout_marginHorizontal="8dp"
+                android:layout_marginVertical="4dp"
                 android:textColor="@color/blue_primary"
                 tools:text="@string/official_site"/>
 
@@ -126,7 +131,8 @@
                 android:background="@drawable/text_rounded_bg"
                 android:padding="6dp"
                 android:textSize="20sp"
-                android:layout_marginTop="6dp"
+                android:layout_marginHorizontal="8dp"
+                android:layout_marginVertical="4dp"
                 tools:text="內文內文內文內文內文內文內文內文內文內文內文"/>
 
         </LinearLayout>
