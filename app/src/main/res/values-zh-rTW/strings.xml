@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">悠遊台北</string>
+    <string name="travel_taipei">悠遊台北</string>
+    <string name="total_attractions">台北市景點</string>
+    <string name="news">最新消息</string>
+    <string name="attractions">遊憩景點</string>
+    <string name="open_time">營業時間</string>
+    <string name="address">地址</string>
+    <string name="tel">聯絡電話</string>
+    <string name="official_site">網址</string>
+    <string name="choose_language">選擇語言</string>
+    <string name="failed_to_load_data">載入失敗</string>
+    <string name="no_data">暫無資料</string>
+</resources>

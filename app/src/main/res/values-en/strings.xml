@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelTaipei</string>
+    <string name="travel_taipei">Travel Taipei</string>
+    <string name="total_attractions">total attractions</string>
+    <string name="news">News</string>
+    <string name="attractions">Attractions</string>
+    <string name="open_time">open time</string>
+    <string name="address">address</string>
+    <string name="tel">tel</string>
+    <string name="official_site">official site</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="failed_to_load_data">failed to load data</string>
+    <string name="no_data">No Data</string>
+</resources>
